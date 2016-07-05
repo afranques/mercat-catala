@@ -6,10 +6,11 @@ Libraries used: script.aculo.us, Snoopy
 
 _I will soon include a more detailed description of the code structure. However, I originally wrote the code (comments and variable names) in Catalan, and that will probably make it hard to read for most part of the people._
 
-Screenshot of the source website from which I'm web scraping the content (http://agenda.cultura.gencat.cat/):
+####Screenshot of the source website from which I'm web scraping the content (http://agenda.cultura.gencat.cat/):
+
 ![List of events Gencat](https://github.com/afranques44/mercat-catala/raw/master/SCREENSHOTS/screenshot_gencat.png "List of events Gencat")
 
-Some screenshots of my website:
+####Some screenshots of my website:
 
 ![Home page](https://github.com/afranques44/mercat-catala/raw/master/SCREENSHOTS/home_page.png "Home page")
 ---
