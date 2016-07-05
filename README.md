@@ -12,10 +12,14 @@ _I will soon include a more detailed description of the code structure. However,
 
 ####Some screenshots of my website:
 
+**Home page**
 ![Home page](https://github.com/afranques44/mercat-catala/raw/master/SCREENSHOTS/home_page.png "Home page")
----
+
+**Showing list of events**
 ![Showing list of events](https://github.com/afranques44/mercat-catala/raw/master/SCREENSHOTS/showing_list_events.png "Showing list of events")
----
+
+**Sign up page**
 ![Sign up page](https://github.com/afranques44/mercat-catala/raw/master/SCREENSHOTS/register_page.png "Sign up page")
----
+
+**Modifying an event**
 ![Modifying an event](https://github.com/afranques44/mercat-catala/raw/master/SCREENSHOTS/modifying_event.png "Modifying an event")
