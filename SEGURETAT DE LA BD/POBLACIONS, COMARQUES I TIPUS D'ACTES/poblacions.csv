@@ -1,0 +1,947 @@
+1$#Aiguamúrcia#$1
+2$#Alcover#$1
+3$#Alió#$1
+4$#Bràfim#$1
+5$#Cabra del Camp#$1
+6$#Figuerola del Camp#$1
+7$#Garidells, els#$1
+8$#Masó, la#$1
+9$#Milà, el#$1
+10$#Montferri#$1
+11$#Mont-ral#$1
+12$#Nulles#$1
+13$#Pla de Santa Maria, el#$1
+14$#Pont d'Armentera, el#$1
+15$#Puigpelat#$1
+16$#Querol#$1
+17$#Riba, la#$1
+18$#Rodonyà#$1
+19$#Rourell, el#$1
+20$#Vallmoll#$1
+21$#Valls#$1
+22$#Vilabella#$1
+23$#Vila-rodona#$1
+24$#Agullana#$2
+25$#Albanyà#$2
+26$#Armentera, l'#$2
+27$#Avinyonet de Puigventós#$2
+28$#Bàscara#$2
+29$#Biure#$2
+30$#Boadella i les Escaules#$2
+31$#Borrassà#$2
+32$#Cabanelles#$2
+33$#Cabanes#$2
+34$#Cadaqués#$2
+35$#Cantallops#$2
+36$#Capmany#$2
+37$#Castelló d'Empúries#$2
+38$#Cistella#$2
+39$#Colera#$2
+40$#Darnius#$2
+41$#Escala, l'#$2
+42$#Espolla#$2
+43$#Far d'Empordà, el#$2
+44$#Figueres#$2
+45$#Fortià#$2
+46$#Garriguella#$2
+47$#Garrigàs#$2
+48$#Jonquera, la#$2
+49$#Lladó#$2
+50$#Llançà#$2
+51$#Llers#$2
+52$#Masarac#$2
+53$#Maçanet de Cabrenys#$2
+54$#Mollet de Peralada#$2
+55$#Navata#$2
+56$#Ordis#$2
+57$#Palau de Santa Eulàlia#$2
+58$#Palau-saverdera#$2
+59$#Pau#$2
+60$#Pedret i Marzà#$2
+61$#Peralada#$2
+62$#Pont de Molins#$2
+63$#Pontós#$2
+64$#Port de la Selva, el#$2
+65$#Portbou#$2
+66$#Rabós#$2
+67$#Riumors#$2
+68$#Roses#$2
+69$#Sant Climent Sescebes#$2
+70$#Sant Llorenç de la Muga#$2
+71$#Sant Miquel de Fluvià#$2
+72$#Sant Mori#$2
+73$#Sant Pere Pescador#$2
+74$#Santa Llogaia d'Àlguema#$2
+75$#Saus, Camallera i Llampaies#$2
+76$#Selva de Mar, la#$2
+77$#Siurana d'Empordà#$2
+78$#Terrades#$2
+79$#Torroella de Fluvià#$2
+80$#Vajol, la#$2
+81$#Ventalló#$2
+82$#Vila-sacra#$2
+83$#Vilabertran#$2
+84$#Viladamat#$2
+85$#Vilafant#$2
+86$#Vilajuïga#$2
+87$#Vilamacolum#$2
+88$#Vilamalla#$2
+89$#Vilamaniscle#$2
+90$#Vilanant#$2
+91$#Vilaür#$2
+92$#Avinyonet del Penedès#$3
+93$#Cabanyes, les#$3
+94$#Castellet i la Gornal#$3
+95$#Castellví de la Marca#$3
+96$#Font-rubí#$3
+97$#Gelida#$3
+98$#Granada, la#$3
+99$#Mediona#$3
+100$#Olesa de Bonesvalls#$3
+101$#Olèrdola#$3
+102$#Pacs del Penedès#$3
+103$#Pla del Penedès, el#$3
+104$#Pontons#$3
+105$#Puigdàlber#$3
+106$#Sant Cugat Sesgarrigues#$3
+107$#Sant Llorenç d'Hortons#$3
+108$#Sant Martí Sarroca#$3
+109$#Sant Pere de Riudebitlles#$3
+110$#Sant Quintí de Mediona#$3
+111$#Sant Sadurní d'Anoia#$3
+112$#Santa Fe del Penedès#$3
+113$#Santa Margarida i els Monjos#$3
+114$#Subirats#$3
+115$#Torrelavit#$3
+116$#Torrelles de Foix#$3
+117$#Vilafranca del Penedès#$3
+118$#Vilobí del Penedès#$3
+119$#Alàs i Cerc#$4
+120$#Arsèguel#$4
+121$#Bassella#$4
+122$#Cabó#$4
+123$#Cava#$4
+124$#Coll de Nargó#$4
+125$#Estamariu#$4
+126$#Fígols i Alinyà#$4
+127$#Josa i Tuixén#$4
+128$#Montferrer i Castellbò#$4
+129$#Oliana#$4
+130$#Organyà#$4
+131$#Peramola#$4
+132$#Pont de Bar, el#$4
+133$#Ribera d'Urgellet#$4
+134$#Seu d'Urgell, la#$4
+135$#Valls d'Aguilar, les#$4
+136$#Valls de Valira, les#$4
+137$#Vansa i Fórnols, la#$4
+138$#El Pont de Suert#$5
+139$#Vall de Boí#$5
+140$#Vilaller#$5
+141$#Argençola#$6
+142$#Bellprat#$6
+143$#Bruc, el#$6
+144$#Cabrera d'Anoia#$6
+145$#Calaf#$6
+146$#Calonge de Segarra#$6
+147$#Capellades#$6
+148$#Carme#$6
+149$#Castellfollit de Riubregós#$6
+150$#Castellolí#$6
+151$#Copons#$6
+152$#Hostalets de Pierola, els#$6
+153$#Igualada#$6
+154$#Jorba#$6
+155$#Llacuna, la#$6
+156$#Masquefa#$6
+157$#Montmaneu#$6
+158$#Òdena#$6
+159$#Orpí#$6
+160$#Piera#$6
+161$#Pobla de Claramunt, la#$6
+162$#Prats de Rei, els#$6
+163$#Pujalt#$6
+164$#Rubió#$6
+165$#Sant Martí Sesgueioles#$6
+166$#Sant Martí de Tous#$6
+167$#Sant Pere Sallavinera#$6
+168$#Santa Margarida de Montbui#$6
+169$#Santa Maria de Miralles#$6
+170$#Torre de Claramunt, la#$6
+171$#Vallbona d'Anoia#$6
+172$#Veciana#$6
+173$#Vilanova del Camí#$6
+174$#Aguilar de Segarra#$7
+175$#Artés#$7
+176$#Avinyó#$7
+177$#Balsareny#$7
+178$#Calders#$7
+179$#Callús#$7
+180$#Cardona#$7
+181$#Castellbell i el Vilar#$7
+182$#Castellfollit del Boix#$7
+183$#Castellgalí#$7
+184$#Castellnou de Bages#$7
+185$#Estany, l'#$7
+186$#Fonollosa#$7
+187$#Gaià#$7
+188$#Manresa#$7
+189$#Marganell#$7
+190$#Moià#$7
+191$#Monistrol de Calders#$7
+192$#Monistrol de Montserrat#$7
+193$#Mura#$7
+194$#Navarcles#$7
+195$#Navàs#$7
+196$#Pont de Vilomara i Rocafort, el#$7
+197$#Rajadell#$7
+198$#Sallent#$7
+199$#Sant Feliu Sasserra#$7
+200$#Sant Fruitós de Bages#$7
+201$#Sant Joan de Vilatorrada#$7
+202$#Sant Mateu de Bages#$7
+203$#Sant Salvador de Guardiola#$7
+204$#Sant Vicenç de Castellet#$7
+205$#Santa Maria d'Oló#$7
+206$#Santpedor#$7
+207$#Súria#$7
+208$#Talamanca#$7
+209$#Albiol, l'#$8
+210$#Aleixar, l'#$8
+211$#Alforja#$8
+212$#Almoster#$8
+213$#Arbolí#$8
+214$#Argentera, l'#$8
+215$#Borges del Camp, les#$8
+216$#Botarell#$8
+217$#Cambrils#$8
+218$#Capafonts#$8
+219$#Castellvell del Camp#$8
+220$#Colldejou#$8
+221$#Duesaigües#$8
+222$#Febró, la#$8
+223$#Maspujols#$8
+224$#Montbrió del Camp#$8
+225$#Mont-roig del Camp#$8
+226$#Prades#$8
+227$#Pratdip#$8
+228$#Reus#$8
+229$#Riudecanyes#$8
+230$#Riudecols#$8
+231$#Riudoms#$8
+232$#Selva del Camp, la#$8
+233$#Vandellòs i l'Hospitalet de l'Infant#$8
+234$#Vilanova d'Escornalbou#$8
+235$#Vilaplana#$8
+236$#Vinyols i els Arcs#$8
+237$#Aldea, l'#$9
+238$#Aldover#$9
+239$#Alfara de Carles#$9
+240$#Ametlla de Mar, l'#$9
+241$#Ampolla, l'#$9
+242$#Benifallet#$9
+243$#Camarles#$9
+244$#Deltebre#$9
+245$#Paüls#$9
+246$#Perelló, el#$9
+247$#Roquetes#$9
+248$#Tivenys#$9
+249$#Tortosa#$9
+250$#Xerta#$9
+251$#Albons#$10
+252$#Begur#$10
+253$#Bellcaire d'Empordà#$10
+254$#Bisbal d'Empordà, la#$10
+255$#Calonge#$10
+256$#Castell-Platja d'Aro#$10
+257$#Colomers#$10
+258$#Corçà#$10
+259$#Cruïlles, Monells i SantSadurní de l'Heura#$10
+260$#Foixà#$10
+261$#Fontanilles#$10
+262$#Forallac#$10
+263$#Garrigoles#$10
+264$#Gualta#$10
+265$#Jafre#$10
+266$#Mont-ras#$10
+267$#Palafrugell#$10
+268$#Palamós#$10
+269$#Palau-sator#$10
+270$#Pals#$10
+271$#Parlavà#$10
+272$#Pera, la#$10
+273$#Regencós#$10
+274$#Rupià#$10
+275$#Sant Feliu de Guíxols#$10
+276$#Santa Cristina d'Aro#$10
+277$#Serra de Daró#$10
+278$#Tallada d'Empordà#$10
+279$#Torrent#$10
+280$#Torroella de Montgrí#$10
+281$#Ullà#$10
+282$#Ullastret#$10
+283$#Ultramort#$10
+284$#Vall-llobrega#$10
+285$#Verges#$10
+286$#Vilopriu#$10
+287$#Abrera#$11
+288$#Begues#$11
+289$#Castelldefels#$11
+290$#Castellví de Rosanes#$11
+291$#Cervelló#$11
+292$#Collbató#$11
+293$#Corbera de Llobregat#$11
+294$#Cornellà de Llobregat#$11
+295$#El Prat de Llobregat#$11
+296$#Esparreguera#$11
+297$#Esplugues de Llobregat#$11
+298$#Gavà#$11
+299$#Martorell#$11
+300$#Molins de Rei#$11
+301$#Olesa de Montserrat#$11
+302$#Pallejà#$11
+303$#La Palma de Cervelló#$11
+304$#El Papiol#$11
+305$#Santa Coloma de Cervelló#$11
+306$#Sant Andreu de la Barca#$11
+307$#Sant Boi de Llobregat#$11
+308$#Sant Climent de Llobregat#$11
+309$#Sant Esteve Sesrovires#$11
+310$#Sant Feliu de Llobregat#$11
+311$#Sant Joan Despí#$11
+312$#Sant Just Desvern#$11
+313$#Sant Vicenç dels Horts#$11
+314$#Torrelles de Llobregat#$11
+315$#Vallirana#$11
+316$#Viladecans#$11
+317$#Albinyana#$12
+318$#Arboç, l'#$12
+319$#Banyeres del Penedès#$12
+320$#Bellvei#$12
+321$#Bisbal del Penedès, la#$12
+322$#Bonastre#$12
+323$#Calafell#$12
+324$#Cunit#$12
+325$#Llorenç del Penedès#$12
+326$#Masllorenç#$12
+327$#Montmell, el#$12
+328$#Sant Jaume dels Domenys#$12
+329$#Santa Oliva#$12
+330$#Vendrell, el#$12
+331$#Alp#$15
+332$#Bellver de Cerdanya#$15
+333$#Bolvir#$15
+334$#Das#$15
+335$#Fontanals de Cerdanya#$15
+336$#Ger#$15
+337$#Guils de Cerdanya#$15
+338$#Isòvol#$15
+339$#Lles de Cerdanya#$15
+340$#Llívia#$15
+341$#Meranges#$15
+342$#Montellà i Martinet#$15
+343$#Prats i Sansor#$15
+344$#Prullans#$15
+345$#Puigcerdà#$15
+346$#Riu de Cerdanya#$15
+347$#Urús#$15
+348$#Badalona#$13
+349$#Barcelona#$13
+350$#l'Hospitalet de Llobregat#$13
+351$#Sant Adrià de Besòs#$13
+352$#Santa Coloma de Gramenet#$13
+353$#Avià#$14
+354$#Bagà#$14
+355$#Berga#$14
+356$#Borredà#$14
+357$#Capolat#$14
+358$#Casserres#$14
+359$#Castell de l'Areny#$14
+360$#Castellar de n'Hug#$14
+361$#Castellar del Riu#$14
+362$#Cercs#$14
+363$#Espunyola, l'#$14
+364$#Fígols#$14
+365$#Gironella#$14
+366$#Gisclareny#$14
+367$#Gósol#$14
+368$#Guardiola de Berguedà#$14
+369$#Montclar#$14
+370$#Montmajor#$14
+371$#Nou de Berguedà, la#$14
+372$#Olvan#$14
+373$#Pobla de Lillet, la#$14
+374$#Puig-reig#$14
+375$#Quar, la#$14
+376$#Sagàs#$14
+377$#Saldes#$14
+378$#Sant Jaume de Frontanyà#$14
+379$#Sant Julià de Cerdanyola#$14
+380$#Santa Maria de Merlès#$14
+381$#Vallcebre#$14
+382$#Vilada#$14
+383$#Viver i Serrateix#$14
+384$#Barberà de la Conca#$16
+385$#Blancafort#$16
+386$#Conesa#$16
+387$#Espluga de Francolí#$16
+388$#Forès#$16
+389$#Llorac#$16
+390$#Montblanc#$16
+391$#Passanant i Belltall#$16
+392$#Piles, les#$16
+393$#Pira#$16
+394$#Pontils#$16
+395$#Rocafort de Queralt#$16
+396$#Santa Coloma de Queralt#$16
+397$#Sarral#$16
+398$#Savallà del Comtat#$16
+399$#Senan#$16
+400$#Solivella#$16
+401$#Vallclara#$16
+402$#Vallfogona de Riucorb#$16
+403$#Vilanova de Prades#$16
+404$#Vilaverd#$16
+405$#Vimbodí i Poblet#$16
+406$#Canyelles#$17
+407$#Cubelles#$17
+408$#Olivella#$17
+409$#Sant Pere de Ribes#$17
+410$#Sitges#$17
+411$#Vilanova i la Geltrú#$17
+412$#Albagés, l'#$18
+413$#Albi, l'#$18
+414$#Arbeca#$18
+415$#Bellaguarda#$18
+416$#Borges Blanques, les#$18
+417$#Bovera#$18
+418$#Castelldans#$18
+419$#Cervià de les Garrigues#$18
+420$#Cogul, el#$18
+421$#Espluga Calba, l'#$18
+422$#Floresta, la#$18
+423$#Fulleda#$18
+424$#Granadella, la#$18
+425$#Granyena de les Garrigues#$18
+426$#Juncosa#$18
+427$#Juneda#$18
+428$#Omellons, els#$18
+429$#Pobla de Cérvoles, la#$18
+430$#Puiggròs#$18
+431$#Soleràs, el#$18
+432$#Tarrés#$18
+433$#Torms, els#$18
+434$#Vilosell, el#$18
+435$#Vinaixa#$18
+436$#Argelaguer#$19
+437$#Besalú#$19
+438$#Beuda#$19
+439$#Castellfollit de la Roca#$19
+440$#Maià de Montcal#$19
+441$#Mieres#$19
+442$#Montagut i Oix#$19
+443$#Olot#$19
+444$#Planes d'Hostoles, les#$19
+445$#Preses, les#$19
+446$#Riudaura#$19
+447$#Sales de Llierca#$19
+448$#Sant Aniol de Finestres#$19
+449$#Sant Feliu de Pallerols#$19
+450$#Sant Ferriol#$19
+451$#Sant Jaume de Llierca#$19
+452$#Sant Joan les Fonts#$19
+453$#Santa Pau#$19
+454$#Tortellà#$19
+455$#Vall de Bianya, la#$19
+456$#Vall d'en Bas, la#$19
+457$#Aiguaviva#$20
+458$#Bescanó#$20
+459$#Bordils#$20
+460$#Campllong#$20
+461$#Canet d'Adri#$20
+462$#Cassà de la Selva#$20
+463$#Celrà#$20
+464$#Cervià de Ter#$20
+465$#Flaçà#$20
+466$#Fornells de la Selva#$20
+467$#Girona#$20
+468$#Juià#$20
+469$#Llagostera#$20
+470$#Llambilles#$20
+471$#Madremanya#$20
+472$#Quart#$20
+473$#Salt#$20
+474$#Sant Andreu Salou#$20
+475$#Sant Gregori#$20
+476$#Sant Joan de Mollet#$20
+477$#Sant Jordi Desvalls#$20
+478$#Sant Julià de Ramis#$20
+479$#Sant Martí de Llémena#$20
+480$#Sant Martí Vell#$20
+481$#Sarrià de Ter#$20
+482$#Vilablareix#$20
+483$#Viladasens#$20
+484$#Alella#$21
+485$#Arenys de Mar#$21
+486$#Arenys de Munt#$21
+487$#Argentona#$21
+488$#Cabrera de Mar#$21
+489$#Cabrils#$21
+490$#Caldes d'Estrac#$21
+491$#Calella#$21
+492$#Canet de Mar#$21
+493$#Dosrius#$21
+494$#Malgrat de Mar#$21
+495$#Masnou, el#$21
+496$#Mataró#$21
+497$#Montgat#$21
+498$#Òrrius#$21
+499$#Palafolls#$21
+500$#Pineda de Mar#$21
+501$#Premià de Dalt#$21
+502$#Premià de Mar#$21
+503$#Sant Andreu de Llavaneres#$21
+504$#Sant Cebrià de Vallalta#$21
+505$#Sant Iscle de Vallalta#$21
+506$#Sant Pol de Mar#$21
+507$#Sant Vicenç de Montalt#$21
+508$#Santa Susanna#$21
+509$#Teià#$21
+510$#Tiana#$21
+511$#Tordera#$21
+512$#Vilassar de Dalt#$21
+513$#Vilassar de Mar#$21
+514$#Alcanar#$22
+515$#Amposta#$22
+516$#Freginals#$22
+517$#Galera, la#$22
+518$#Godall#$22
+519$#Mas de Barberans#$22
+520$#Masdenverge#$22
+521$#Sant Carles de la Ràpita#$22
+522$#Sant Jaume d'Enveja#$22
+523$#Santa Bàrbara#$22
+524$#Sénia, la#$22
+525$#Ulldecona#$22
+526$#Àger#$23
+527$#Albesa#$23
+528$#Algerri#$23
+529$#Alòs de Balaguer#$23
+530$#Artesa de Segre#$23
+531$#Avellanes i Santa Linya, les#$23
+532$#Balaguer#$23
+533$#Baronia de Rialb, la#$23
+534$#Bellcaire d'Urgell#$23
+535$#Bellmunt d'Urgell#$23
+536$#Cabanabona#$23
+537$#Camarasa#$23
+538$#Castelló de Farfanya#$23
+539$#Cubells#$23
+540$#Foradada#$23
+541$#Ivars de Noguera#$23
+542$#Menàrguens#$23
+543$#Montgai#$23
+544$#Oliola#$23
+545$#Os de Balaguer#$23
+546$#Penelles#$23
+547$#Ponts#$23
+548$#Preixens#$23
+549$#Sentiu de Sió, la#$23
+550$#Térmens#$23
+551$#Tiurana#$23
+552$#Torrelameu#$23
+553$#Vallfogona de Balaguer#$23
+554$#Vilanova de l'Aguda#$23
+555$#Vilanova de Meià#$23
+556$#Alpens#$24
+557$#Balenyà#$24
+558$#Brull, el#$24
+559$#Calldetenes#$24
+560$#Centelles#$24
+561$#Collsuspina#$24
+562$#Espinelves#$24
+563$#Folgueroles#$24
+564$#Gurb#$24
+565$#Lluçà#$24
+566$#Malla#$24
+567$#Manlleu#$24
+568$#Masies de Roda, les#$24
+569$#Masies de Voltregà, les#$24
+570$#Montesquiu#$24
+571$#Muntanyola#$24
+572$#Olost#$24
+573$#Orís#$24
+574$#Oristà#$24
+575$#Perafita#$24
+576$#Prats de Lluçanès#$24
+577$#Roda de Ter#$24
+578$#Rupit i Pruit#$24
+579$#Sant Agustí de Lluçanès#$24
+580$#Sant Bartomeu del Grau#$24
+581$#Sant Boi de Lluçanès#$24
+582$#Sant Hipòlit de Voltregà#$24
+583$#Sant Julià de Vilatorta#$24
+584$#Sant Martí d'Albars#$24
+585$#Sant Martí de Centelles#$24
+586$#Sant Pere de Torelló#$24
+587$#Sant Quirze de Besora#$24
+588$#Sant Sadurní d'Osormort#$24
+589$#Sant Vicenç de Torelló#$24
+590$#Santa Cecília de Voltregà#$24
+591$#Santa Eugènia de Berga#$24
+592$#Santa Eulàlia de Riuprimer#$24
+593$#Santa Maria de Besora#$24
+594$#Santa Maria de Corcó#$24
+595$#Seva#$24
+596$#Sobremunt#$24
+597$#Sora#$24
+598$#Taradell#$24
+599$#Tavèrnoles#$24
+600$#Tavertet#$24
+601$#Tona#$24
+602$#Torelló#$24
+603$#Vic#$24
+604$#Vidrà#$24
+605$#Viladrau#$24
+606$#Vilanova de Sau#$24
+607$#Abella de la Conca#$25
+608$#Castell de Mur#$25
+609$#Conca de Dalt#$25
+610$#Gavet de la Conca#$25
+611$#Isona i Conca Dellà#$25
+612$#Llimiana#$25
+613$#Pobla de Segur, la#$25
+614$#Salàs de Pallars#$25
+615$#Sant Esteve de la Sarga#$25
+616$#Sarroca de Bellera#$25
+617$#Senterada#$25
+618$#Talarn#$25
+619$#Torre de Cabdella, la#$25
+620$#Tremp#$25
+621$#Alins#$26
+622$#Alt Àneu#$26
+623$#Baix Pallars#$26
+624$#Espot#$26
+625$#Esterri d'Àneu#$26
+626$#Esterri de Cardós#$26
+627$#Farrera#$26
+628$#Guingueta d'Àneu, la#$26
+629$#Lladorre#$26
+630$#Llavorsí#$26
+631$#Rialp#$26
+632$#Soriguera#$26
+633$#Sort#$26
+634$#Tírvia#$26
+635$#Vall de Cardós#$26
+636$#Banyoles#$28
+637$#Camós#$28
+638$#Cornellà del Terri#$28
+639$#Crespià#$28
+640$#Esponellà#$28
+641$#Fontcoberta#$28
+642$#Palol de Revardit#$28
+643$#Porqueres#$28
+644$#Sant Miquel de Campmajor#$28
+645$#Serinyà#$28
+646$#Vilademuls#$28
+647$#Barbens#$27
+648$#Bell-lloc d'Urgell#$27
+649$#Bellvís#$27
+650$#Castellnou de Seana#$27
+651$#Fondarella#$27
+652$#Golmés#$27
+653$#Ivars d'Urgell#$27
+654$#Linyola#$27
+655$#Miralcamp#$27
+656$#Mollerussa#$27
+657$#Palau d'Anglesola, el#$27
+658$#Poal, el#$27
+659$#Sidamon#$27
+660$#Torregrossa#$27
+661$#Vilanova de Bellpuig#$27
+662$#Vila-sana#$27
+663$#Bellmunt del Priorat#$29
+664$#Bisbal de Falset, la#$29
+665$#Cabacés#$29
+666$#Capçanes#$29
+667$#Cornudella de Montsant#$29
+668$#Falset#$29
+669$#Figuera, la#$29
+670$#Gratallops#$29
+671$#Guiamets, els#$29
+672$#Lloar, el#$29
+673$#Marçà#$29
+674$#Margalef#$29
+675$#Masroig, el#$29
+676$#Molar, el#$29
+677$#Morera de Montsant, la#$29
+678$#Poboleda#$29
+679$#Porrera#$29
+680$#Pradell de la Teixeta#$29
+681$#Torre de Fontaubella, la#$29
+682$#Torroja del Priorat#$29
+683$#Ulldemolins#$29
+684$#Vilella Alta, la#$29
+685$#Vilella Baixa, la#$29
+686$#Ascó#$30
+687$#Benissanet#$30
+688$#Flix#$30
+689$#Garcia#$30
+690$#Ginestar#$30
+691$#Miravet#$30
+692$#Móra d'Ebre#$30
+693$#Móra la Nova#$30
+694$#Palma d'Ebre, la#$30
+695$#Rasquera#$30
+696$#Riba-roja d'Ebre#$30
+697$#Tivissa#$30
+698$#Torre de l'Espanyol, la#$30
+699$#Vinebre#$30
+700$#Campdevànol#$31
+701$#Campelles#$31
+702$#Camprodon#$31
+703$#Gombrèn#$31
+704$#Llanars#$31
+705$#Llosses, les#$31
+706$#Molló#$31
+707$#Ogassa#$31
+708$#Pardines#$31
+709$#Planoles#$31
+710$#Queralbs#$31
+711$#Ribes de Freser#$31
+712$#Ripoll#$31
+713$#Sant Joan de les Abadesses#$31
+714$#Sant Pau de Segúries#$31
+715$#Setcases#$31
+716$#Toses#$31
+717$#Vallfogona de Ripollès#$31
+718$#Vilallonga de Ter#$31
+719$#Biosca#$32
+720$#Cervera#$32
+721$#Estaràs#$32
+722$#Granyanella#$32
+723$#Granyena de Segarra#$32
+724$#Guissona#$32
+725$#Ivorra#$32
+726$#Massoteres#$32
+727$#Montoliu de Segarra#$32
+728$#Montornès de Segarra#$32
+729$#Oluges, les#$32
+730$#Plans de Sió, els#$32
+731$#Ribera d'Ondara#$32
+732$#Sanaüja#$32
+733$#Sant Guim de Freixenet#$32
+734$#Sant Guim de la Plana#$32
+735$#Sant Ramon#$32
+736$#Talavera#$32
+737$#Tarroja de Segarra#$32
+738$#Torà#$32
+739$#Torrefeta i Florejacs#$32
+740$#Aitona#$33
+741$#Alamús, els#$33
+742$#Albatàrrec#$33
+743$#Alcanó#$33
+744$#Alcarràs#$33
+745$#Alcoletge#$33
+746$#Alfarràs#$33
+747$#Alfés#$33
+748$#Alguaire#$33
+749$#Almacelles#$33
+750$#Almatret#$33
+751$#Almenar#$33
+752$#Alpicat#$33
+753$#Artesa de Lleida#$33
+754$#Aspa#$33
+755$#Benavent de Segrià#$33
+756$#Corbins#$33
+757$#Gimenells i el Pla de la Font#$33
+758$#Granja d'Escarp, la#$33
+759$#Llardecans#$33
+760$#Lleida#$33
+761$#Maials#$33
+762$#Massalcoreig#$33
+763$#Montoliu de Lleida#$33
+764$#Portella, la#$33
+765$#Puigverd de Lleida#$33
+766$#Rosselló#$33
+767$#Sarroca de Lleida#$33
+768$#Seròs#$33
+769$#Soses#$33
+770$#Sudanell#$33
+771$#Sunyer#$33
+772$#Torrebesses#$33
+773$#Torrefarrera#$33
+774$#Torres de Segre#$33
+775$#Torre-serona#$33
+776$#Vilanova de la Barca#$33
+777$#Vilanova de Segrià#$33
+778$#Amer#$34
+779$#Anglès#$34
+780$#Arbúcies#$34
+781$#Blanes#$34
+782$#Breda#$34
+783$#Brunyola#$34
+784$#Caldes de Malavella#$34
+785$#Cellera de Ter, la#$34
+786$#Fogars de la Selva#$34
+787$#Hostalric#$34
+788$#Lloret de Mar#$34
+789$#Massanes#$34
+790$#Maçanet de la Selva#$34
+791$#Osor#$34
+792$#Riells i Viabrea#$34
+793$#Riudarenes#$34
+794$#Riudellots de la Selva#$34
+795$#Sant Feliu de Buixalleu#$34
+796$#Sant Hilari Sacalm#$34
+797$#Sant Julià del Llor i Bonmatí#$34
+798$#Santa Coloma de Farners#$34
+799$#Sils#$34
+800$#Susqueda#$34
+801$#Tossa de Mar#$34
+802$#Vidreres#$34
+803$#Vilobí d'Onyar#$34
+804$#Castellar de la Ribera#$35
+805$#Clariana de Cardener#$35
+806$#Coma i la Pedra, la#$35
+807$#Guixers#$35
+808$#Lladurs#$35
+809$#Llobera#$35
+810$#Molsosa, la#$35
+811$#Navès#$35
+812$#Odèn#$35
+813$#Olius#$35
+814$#Pinell de Solsonès#$35
+815$#Pinós#$35
+816$#Riner#$35
+817$#Sant Llorenç de Morunys#$35
+818$#Solsona#$35
+819$#Altafulla#$36
+820$#Canonja, la#$36
+821$#Catllar, el#$36
+822$#Constantí#$36
+823$#Creixell#$36
+824$#Morell, el#$36
+825$#Nou de Gaià, la#$36
+826$#Pallaresos, els#$36
+827$#Perafort#$36
+828$#Pobla de Mafumet, la#$36
+829$#Pobla de Montornès, la#$36
+830$#Renau#$36
+831$#Riera de Gaià, la#$36
+832$#Roda de Barà#$36
+833$#Salomó#$36
+834$#Salou#$36
+835$#Secuita, la#$36
+836$#Tarragona#$36
+837$#Torredembarra#$36
+838$#Vespella de Gaià#$36
+839$#Vila-seca#$36
+840$#Vilallonga del Camp#$36
+841$#Arnes#$37
+842$#Batea#$37
+843$#Bot#$37
+844$#Caseres#$37
+845$#Corbera d'Ebre#$37
+846$#Fatarella, la#$37
+847$#Gandesa#$37
+848$#Horta de Sant Joan#$37
+849$#Pinell de Brai, el#$37
+850$#Pobla de Massaluca, la#$37
+851$#Prat de Comte#$37
+852$#Vilalba dels Arcs#$37
+853$#Agramunt#$38
+854$#Anglesola#$38
+855$#Belianes#$38
+856$#Bellpuig#$38
+857$#Castellserà#$38
+858$#Ciutadilla#$38
+859$#Fuliola, la#$38
+860$#Guimerà#$38
+861$#Maldà#$38
+862$#Nalec#$38
+863$#Omells de na Gaia, els#$38
+864$#Ossó de Sió#$38
+865$#Preixana#$38
+866$#Puigverd d'Agramunt#$38
+867$#Sant Martí de Riucorb#$38
+868$#Tàrrega#$38
+869$#Tornabous#$38
+870$#Vallbona de les Monges#$38
+871$#Verdú#$38
+872$#Vilagrassa#$38
+873$#Arres#$39
+874$#Bausen#$39
+875$#Bossòst#$39
+876$#Bòrdes, es#$39
+877$#Canejan#$39
+878$#Les#$39
+879$#Naut Aran#$39
+880$#Vielha e Mijaran#$39
+881$#Vilamòs#$39
+882$#Badia del Vallès#$40
+883$#Barberà del Vallès#$40
+884$#Castellar del Vallès#$40
+885$#Castellbisbal#$40
+886$#Cerdanyola del Vallès#$40
+887$#Gallifa#$40
+888$#Matadepera#$40
+889$#Montcada i Reixac#$40
+890$#Palau-solità i Plegamans#$40
+891$#Polinyà#$40
+892$#Rellinars#$40
+893$#Ripollet#$40
+894$#Rubí#$40
+895$#Sabadell#$40
+896$#Sant Cugat del Vallès#$40
+897$#Sant Llorenç Savall#$40
+898$#Sant Quirze del Vallès#$40
+899$#Santa Perpètua de Mogoda#$40
+900$#Sentmenat#$40
+901$#Terrassa#$40
+902$#Ullastrell#$40
+903$#Vacarisses#$40
+904$#Viladecavalls#$40
+905$#Aiguafreda#$41
+906$#Ametlla del Vallès, l'#$41
+907$#Bigues i Riells#$41
+908$#Caldes de Montbui#$41
+909$#Campins#$41
+910$#Canovelles#$41
+911$#Cardedeu#$41
+912$#Castellcir#$41
+913$#Castellterçol#$41
+914$#Cànoves i Samalús#$41
+915$#Figaró-Montmany#$41
+916$#Fogars de Montclús#$41
+917$#Franqueses del Vallès, les#$41
+918$#la Garriga#$41
+919$#Granera#$41
+920$#Granollers#$41
+921$#Gualba#$41
+922$#Llagosta, la#$41
+923$#Llinars del Vallès#$41
+924$#Lliçà d'Amunt#$41
+925$#Lliçà de Vall#$41
+926$#Martorelles#$41
+927$#Mollet del Vallès#$41
+928$#Montmeló#$41
+929$#Montornès del Vallès#$41
+930$#Montseny#$41
+931$#Parets del Vallès#$41
+932$#Roca del Vallès, la#$41
+933$#Sant Antoni de Vilamajor#$41
+934$#Sant Celoni#$41
+935$#Sant Esteve de Palautordera#$41
+936$#Sant Feliu de Codines#$41
+937$#Sant Fost de Campsentelles#$41
+938$#Sant Pere de Vilamajor#$41
+939$#Sant Quirze Safaja#$41
+940$#Santa Eulàlia de Ronçana#$41
+941$#Santa Maria de Martorelles#$41
+942$#Santa Maria de Palautordera#$41
+943$#Tagamanent#$41
+944$#Vallgorguina#$41
+945$#Vallromanes#$41
+946$#Vilalba Sasserra#$41
+947$#Vilanova del Vallès#$41

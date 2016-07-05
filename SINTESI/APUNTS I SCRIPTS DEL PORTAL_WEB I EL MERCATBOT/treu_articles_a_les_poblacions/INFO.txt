@@ -1,0 +1,3 @@
+Alhora d'inserir les poblacions va sorgir el problema de l'article al final del nom separat per una coma.
+
+Aquest script agafa l'article del darrere i el posa al devant.

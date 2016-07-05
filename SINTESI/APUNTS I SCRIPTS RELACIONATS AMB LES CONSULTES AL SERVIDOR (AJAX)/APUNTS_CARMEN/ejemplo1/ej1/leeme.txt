@@ -1,0 +1,10 @@
+index.html
+fichero inicial que pide el usuario
+
+ejemplo1.js
+Contiene el javascript que se carga a través de index.html.
+Hace llamadas asíncronas al servidor, cuando se necesita saber algo.
+
+ejemplo1.php
+Contiene el script PHP que es llamado por ejemplo1.js para responder al cliente.
+

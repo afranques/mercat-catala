@@ -1,0 +1,34 @@
+1. Llegir la memòria
+
+-------------------------------
+
+2. Importar l'arxiu "AGENDA_SENSE_INNODB.sql" que trobes dins la carpeta "SEGURETAT DE LA BD" a un servidor MySQL amb local i que tingui un usuari anomenat "root" (per defecte) i que la contrasenya sigui buida ("").
+
+-------------------------------
+
+3. Si el que volem es omplir la base de dades amb tots els esdeveniments del portal gencat.cat el primer pas serà buidar tots els camps de la BD exceptuant: Comarques, poblacions i tipus_actes. El pròxim pas serà copiar la carpeta "SINTESI" en un servidor que tingui el servei d'Apache actiu (la cuestió és que sigui un servidor web... apache és el més comú). Dins d'aquesta carpeta i un cop estigui dins el servidor visitarem l'arxiu GET_CONTENTS/corredor.php en forma de petició al servidor (fem-ho amb el navegador Mozilla Firefox!). Esperarem a que acabi tenint en compte el problema del "60 secs. time exceeded". Si el que volem es carregar tota la agenda previament ja parsejada, podem importar-la amb l'arxiu localhost.sql.zip
+
+-------------------------------
+
+4. Ja tenim la base de dades amb tots els esdeveniments.
+
+-------------------------------
+
+5. Entrem a la carpeta arrel del projecte (SINTESI) desde el Firefox i dins d'aquesta visitarem PORTAL_WEB/portada.php
+
+-------------------------------
+
+	#################################
+	# NOTA MOLT IMPORTANT!!!!!!!	#
+	#				#
+	# MERCAT CATALÀ TANT SOLS	#
+	# FUNCIONA CORRECTAMENT AMB	#
+	# EL NAVEGADOR MOZILLA FIREFOX	#
+	# TOT I QUE GOOGLE CHROME	#
+	# DÓNA SIMPTOMES DE QUE TAMBÉ	#
+	# EL SOPORTA PROU BÉ.		#
+	#				#
+	# NO UTILITZAR CAP NAVEGADOR	#
+	# QUE NO SIGUI UN D'AQUESTS	#
+	# DOS.				#
+	#################################

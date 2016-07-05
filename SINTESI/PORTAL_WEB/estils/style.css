@@ -1,0 +1,786 @@
+/*
+Design by Free CSS Templates
+http://www.freecsstemplates.org
+Released for free under a Creative Commons Attribution 2.5 License
+*/
+
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF url(images/img01.jpg) repeat-x left top;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #787878;
+}
+
+h1, h2, h3 {
+	margin: 0;
+	padding: 0;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-weight: normal;
+	color: #8A8A8A;
+}
+
+h1 {
+	font-size: 2em;
+}
+
+h2 {
+	font-size: 1.8em;
+}
+
+h3 {
+	font-size: 1.6em;
+}
+
+p, ul, ol {
+	margin-top: 0;
+	line-height: 180%;
+}
+
+ul, ol {
+}
+
+a {
+	text-decoration: none;
+	color: #01BBEC;
+}
+
+a:hover {
+}
+
+#wrapper {
+	width: 960px;
+	margin: 0 auto;
+	padding: 0;
+}
+
+/* Header */
+
+#header {
+	width: 960px;
+	height: 110px;
+	margin: 0 auto;
+}
+
+/* Logo */
+
+#logo {
+	float: left;
+	height: 65px;
+	margin: 0;
+	padding-top: 10px;
+	color: #FFFFFF;
+}
+
+#logo h1, #logo p {
+	margin: 0;
+	padding: 0;
+}
+
+#logo h1 {
+	float: left;
+	letter-spacing: -1px;
+	text-transform: lowercase;
+	font-size: 2.6em;
+}
+
+#logo p {
+	float: left;
+	margin: 0;
+	padding: 12px 0 0 10px;
+	font: normal 14px Georgia, "Times New Roman", Times, serif;
+	font-style: italic;
+} 
+
+#logo a {
+	border: none;
+	background: none;
+	text-decoration: none;
+	color: #FFFFFF;
+}
+
+/*Buscador*/
+
+#searchsimple {
+	margin-left: -50px;
+	padding-top: 42px;
+	float: right;
+	margin-bottom: 15px;
+}
+
+#infosearchsimple {
+	color: #FFFFFF;
+}
+
+#campcercasimpleportada {
+	width: 220px;
+	height: 35px;
+	padding: 3.4px 5px;
+	border: 2px solid #DEDEDE;
+	background: #F0FFF0;
+	text-transform: lowercase;
+	font: normal 18px Arial, Helvetica, sans-serif;
+	color: #5D781D;
+}
+
+#campcercasimpleportada:focus {
+	background: #FFFFFF;
+}
+
+#submitcercasimpleportada {
+	margin-left: -2px;
+	width: 110px;
+	height: 35px;
+	font-size: 20px;
+	color: #696969;
+}
+
+#submitcercasimpleportada:hover {
+	
+}
+
+/*FI buscador*/
+
+#search {
+	float: right;
+	width: 301px;
+	height: 90px;
+	padding: 0;
+	background: url(images/img02.jpg) no-repeat left bottom;
+}
+
+.campsloginportada {
+	height: 41px;
+	padding-top: 10px;
+	padding-left: 20px;
+}
+
+#search fieldset {
+	margin: 0;
+	padding: 0;
+	border: none;
+}
+
+#loginuser {
+	padding: 4px 5px;
+	border: 1px solid #DEDEDE;
+	background: #FFFFFF;
+	text-transform: lowercase;
+	font: normal 11px Arial, Helvetica, sans-serif;
+	color: #5D781D;
+}
+
+#loginpwd {
+	padding: 4px 5px;
+	border: 1px solid #DEDEDE;
+	background: #FFFFFF;
+	text-transform: lowercase;
+	font: normal 11px Arial, Helvetica, sans-serif;
+	color: #5D781D;
+}
+
+#submitlogin {
+	width: 50px;
+	height: 25px;
+	border: none;
+	background: url(images/img03.jpg) no-repeat left top;
+	color: #FFFFFF;
+}
+
+.userloguejat {
+	height: 41px;
+	padding-top: 10px;
+	padding-left: 20px;
+
+}
+
+/* Menu */
+
+#menu {
+	width: 960px;
+	height: 38px;
+	margin: 0 auto;
+	padding: 0;
+}
+
+#menu ul {
+	margin: 0;
+	padding: 0px 0px 0px 25px;
+	list-style: none;
+	line-height: normal;
+}
+
+#menu li {
+	float: left;
+	height: 38px;
+}
+
+#menu li .current_page_item{
+	float: left;
+	height: 38px;
+	background: #FFFFFF;
+}
+
+#menu a {
+	display: block;
+	padding: 10px 30px 7px 30px;
+	text-decoration: none;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	color: #FFFFFF;
+	border: none;
+}
+
+#menu a:hover, #menu .current_page_item a {
+	
+}
+
+#menu .current_page_item {
+	color: gray;	
+}
+
+#menu a:hover {
+	text-decoration: underline;
+}
+
+/* Page */
+
+#page {
+	width: 960px;
+	margin: 0 auto;
+	padding: 0;
+}
+
+#page-bgtop {
+	padding: 0px 25px;
+}
+
+#page-bgbtm {
+	/*background: #FFFFFF;*/
+}
+
+/* Content */
+
+#content {
+	margin-top: 16px;
+	float: right;
+	width: 480px;
+	padding: 24px 0px 0px 0px;
+}
+
+#formulari_login {
+	margin-top: 26px;
+	width: 750px;
+	padding: 10px 0px 0px 0px;
+	color: #787878;
+	background: #FFFFFF url(images/fletxacomentari.jpg) no-repeat right top;
+}
+
+#formulari_login ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	border: 4px orange solid;
+}
+
+#formulari_login h3 {
+	height: 28px;
+	padding: 3px 0 0 20px;
+	background: orange;
+	letter-spacing: -.5px;
+	color: #FFFFFF;
+}
+
+#titledestacats {
+	text-align: right;
+	font: normal 13px Arial, Helvetica, sans-serif;
+	color: #787878;
+}
+
+#lemalogin {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-weight: normal;
+	color: #01BBEC;
+	font-size: 25px;
+}
+
+.titolcamp {
+	background: #FFFFFF ;
+	padding-left: 15px;
+	padding-top: 15px;
+	padding-right: 15px;
+	width: 500px;
+	float: left;
+	border-right: 4px orange solid;
+}
+
+.titolregistre  {
+	background: #4682B4;
+	height: 194px;
+	padding-right: 15px;
+	padding-top: 15px;
+}
+
+.lemaregistra {
+	margin-top: -10px;
+	margin-right: -15px;
+	text-align: center;
+	color: #FFFFFF;
+}
+
+.linkregistra {
+	padding-top: 15px;
+}
+
+.linkregistra img{
+	width: 17%;
+	border: 0;
+}
+
+#loginuser2 {
+	padding: 4px 5px;
+	border: 1px solid #DEDEDE;
+	background: #FFFFFF;
+	text-transform: lowercase;
+	font: normal 11px Arial, Helvetica, sans-serif;
+	color: #5D781D;
+}
+
+#loginpwd2 {
+	padding: 4px 5px;
+	border: 1px solid #DEDEDE;
+	background: #FFFFFF;
+	text-transform: lowercase;
+	font: normal 11px Arial, Helvetica, sans-serif;
+	color: #5D781D;
+}
+
+#submitlogin2 {
+	width: 50px;
+	height: 25px;
+	border: none;
+	background: url(images/img03.jpg) no-repeat left top;
+	color: #FFFFFF;
+}
+
+/*FORMULARI DEL REGISTRE*/
+
+#formulari_registre {
+	margin-top: 26px;
+	width: 750px;
+	padding: 10px 0px 0px 0px;
+	color: #787878;
+	background: #FFFFFF url(images/fletxacomentari.jpg) no-repeat right top;
+}
+
+#formulari_registre ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	border: 4px orange solid;
+}
+
+#formulari_registre h3 {
+	height: 28px;
+	padding: 3px 0 0 20px;
+	background: orange;
+	letter-spacing: -.5px;
+	color: #FFFFFF;
+}
+
+#contingutregistre {
+	background: #FFFFFF ;
+	padding-left: 15px;
+	padding-top: 15px;
+	padding-right: 15px;
+}
+
+.required {
+	padding: 4px 5px;
+	border: 2px solid #DEDEDE;
+	background: #FFFFFF;
+	text-transform: lowercase;
+	font: normal 18px Arial, Helvetica, sans-serif;
+	color: #5D781D;
+}
+
+.datesregistre {
+	padding: 4px 5px;
+	border: 2px solid #DEDEDE;
+	background: #FFFFFF;
+	text-transform: lowercase;
+	font: normal 18px Arial, Helvetica, sans-serif;
+	color: #5D781D;
+}
+
+.required:focus, .datesregistre:focus{
+	border: 3px solid #DEDEDE;
+	background: #F0FFF0;
+	text-transform: lowercase;
+}
+
+.entraregistre {
+	width: 140px;
+	height: 45px;
+	font-size: 20px;
+	color: #696969;
+}
+
+.entraregistre:hover {
+	color: #FFFFFF;
+}
+
+/*FI FORMULARI DE REGISTRE*/
+
+#contentcerca {
+	margin-top: 16px;
+	padding: 24px 0px 0px 0px;
+}
+
+#comentarisfitxa {
+	float: right;
+	margin-top: 16px;
+	padding-top: 55px;
+}
+
+#comentarisfitxa ul{
+	list-style: none;
+	padding-left: 30px;
+}
+
+#comentarisfitxa li{
+	background: url(images/fletxacomentari.jpg) no-repeat left center;
+	margin-bottom: 6px;
+}
+
+#comentarisfitxa p{
+	width: 300px;
+	background: orange;
+	margin-left: 10px;
+	padding-left: 15px;
+	
+}
+
+.post {
+	margin-bottom: 25px;
+	padding: 22px 0px;
+	background: #FFFFFF;
+}
+
+.post-bgtop {
+}
+
+.post-bgbtm {
+}
+
+.title {
+	height: 28px;
+	padding: 2px 0 0 20px;
+	margin-bottom: 10px;
+	border-bottom: 1px #01BBEC solid;
+	letter-spacing: -.5px;
+	color: #01BBEC;
+}
+
+.titlecerca {
+	height: 28px;
+	padding: 2px 0 0 20px;
+	margin-bottom: 10px;
+	border-bottom: 1px #01BBEC solid;
+	letter-spacing: -.5px;
+	color: #01BBEC;
+}
+
+.title a {
+	color: #FFFFFF;
+	border: none;
+}
+
+.meta {
+	padding-bottom: 5px;
+	padding-left: 20px;
+	text-align: left;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: italic;
+}
+
+.meta a {
+	color: #01BBEC;
+}
+
+.entry {
+	padding-left: 20px;
+	height: 100px;
+	text-align: justify;
+}
+
+.links {
+	display: block;
+	width: 100px;
+	height: 20px;
+	margin-top: 20px;
+	background: url(images/img05.jpg) no-repeat left top;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 10px;
+	color: #FFFFFF;
+}
+
+a:hover.links { text-decoration: underline; }
+
+/* Benvinguda */
+
+#benvinguda {
+	padding: 20px 0px 0px 0px;
+	color: #FFFFFF;
+	background: #3D3D3D;
+	border-bottom: 4px #01BBEC solid;
+}
+
+#benvinguda h2 {
+	padding: 5px 0 0 20px;
+	letter-spacing: -.5px;
+	color: #FFA500;
+	font-size: 30px;
+}
+
+#pbenvingut {
+	color: #FFFF00;
+}
+
+#benvinguda p {
+	padding: 0px 20px 20px 20px;
+	text-align: justify;
+}
+
+/* Sidebar */
+
+#sidebar {
+	margin-top: 16px;
+	float: left;
+	width: 392px;
+	padding: 20px 0px 0px 0px;
+	color: #787878;
+	background: #FFFFFF;
+}
+
+#sidebarfitxa {
+	margin-top: 16px;
+	float: left;
+	width: 550px;
+	padding: 20px 0px 0px 0px;
+	color: #787878;
+	background: #FFFFFF;
+}
+
+#sidebarfitxaul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	border: 4px #01BBEC solid;
+}
+
+#sidebarfitxa h3 {
+	height: 28px;
+	padding: 3px 0 0 20px;
+	background: #01BBEC;
+	letter-spacing: -.5px;
+	color: #FFFFFF;
+}
+
+#contingutfitxa {
+	margin: 5px;
+	padding: 5px;
+}
+
+a:hover.fitxaorigen { text-decoration: underline; }
+a:hover.resultatsorigen { text-decoration: underline; }
+
+#myArea2 {
+	border: 3px orange dashed;
+	padding: 5px;
+	margin-top: 5px;
+}
+
+#fitxaproposta {
+	border: 3px orange dashed;
+	padding: 5px;
+	margin-top: 5px;
+}
+
+#capscalen {
+	padding-top: 5px;
+	padding-left: 5px;
+	height: 300px;
+}
+
+#sidebar ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	border: 4px #01BBEC solid;
+}
+
+#sidebar li {
+	margin: 0;
+	padding: 0;
+}
+
+#sidebar li ul {
+	margin: 10px 30px;
+	padding-bottom: 30px;
+	border: 0px;
+}
+
+#infocercaportada {
+	display: block;
+	width: 200px;
+	height: 20px;
+	margin-top: 2px;
+	background: #FF8C00;
+	text-align: center;
+	font-size: 12px;
+	color: #FFFFFF;
+}
+
+#titolcerca {
+	display: block;
+	text-align: justify;
+	margin-top: -270px;
+	padding-left: 100px;
+	font-size: 15px;
+}
+
+#imgcalendari {
+	float: left;
+	margin-left: -5px;
+	z-index: -1;
+}
+
+#titolcalendari {
+	padding-top: 10px;
+	padding-right: 25px;
+	display: block;
+	font-size: 13px;
+}
+
+#cercaesdeveniments_portada {
+	padding-top: 88px;
+	padding-left: 90px;
+}
+
+#comarcaportada {
+	width: 200px;
+	height: 25px;
+	padding: 4px 5px;
+	border: 1px solid #DEDEDE;
+	background: #FFFFFF;
+	text-transform: lowercase;
+	font: normal 12px Arial, Helvetica, sans-serif;
+	color: #5D781D;
+}
+
+#poblacioportada {
+	width: 200px;
+	height: 25px;
+	padding: 4px 5px;
+	border: 1px solid #DEDEDE;
+	background: #FFFFFF;
+	text-transform: lowercase;
+	font: normal 12px Arial, Helvetica, sans-serif;
+	color: #5D781D;
+}
+
+#submitcercaportada {
+	width: 50px;
+	height: 25px;
+	border: none;
+	background: url(images/img03.jpg) no-repeat left top;
+	color: #FFFFFF;
+}
+
+#imgcat {
+	
+}
+
+#sidebar li li {
+	border-bottom: 1px dashed #D1D1D1;
+	padding-left: 5px;
+	list-style-type:square; 
+}
+
+#sidebar li li span {
+	display: block;
+	margin-top: -20px;
+	padding: 0;
+	font-size: 11px;
+	font-style: italic;
+}
+
+#sidebar h3 {
+	height: 28px;
+	padding: 3px 0 0 20px;
+	background: #01BBEC;
+	letter-spacing: -.5px;
+	color: #FFFFFF;
+}
+
+#sidebar p {
+	margin: 0 0px;
+	padding: 0px 20px 20px 20px;
+	text-align: justify;
+}
+
+#sidebar a {
+	border: none;
+	color: #01BBEC;
+}
+
+/* Calendar */
+
+#calendar {
+}
+
+#calendar_wrap {
+	padding: 20px;
+}
+
+#calendar table {
+	width: 100%;
+}
+
+#calendar tbody td {
+	text-align: center;
+}
+
+#calendar #next {
+	text-align: right;
+}
+
+/* Footer */
+
+#footer {
+	width: 960px;
+	height: 50px;
+	margin: 0 auto;
+	padding: 0px 0 15px 0;
+	border-top: 1px solid #DEDEDE;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+#footer p {
+	margin: 0;
+	padding-top: 20px;
+	line-height: normal;
+	font-size: 9px;
+	text-transform: uppercase;
+	text-align: center;
+	color: #A0A0A0;
+}
+
+#footer a {
+	color: #8A8A8A;
+}
