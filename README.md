@@ -4,7 +4,7 @@ Set of scripts for parsing, saving and uploading to a personally-owned database 
 - Languages and techniques used: PHP, Javascript, Ajax, SQL, HTML, CSS
 - Libraries used: script.aculo.us, Snoopy
 
-_I will soon include a more detailed description of the code structure. However, I originally wrote the code (comments and variable names) in Catalan, and that will probably make it hard to read for most part of the people._
+_A fairly detailed description of the code structure can be found at Memòria_escrita.pdf, although it's in Catalan. I will soon start translating it to English. However, I originally wrote the code (comments and variable names) in Catalan, and that will probably still make it hard to read for most part of the people._
 
 ###Screenshot of the source website from which I'm web scraping the content (http://agenda.cultura.gencat.cat/):
 
