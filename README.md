@@ -6,6 +6,8 @@ Set of scripts for parsing, saving and uploading to a personally-owned database 
 
 _A fairly detailed description of the code structure can be found at Memòria_escrita.pdf, although it's in Catalan. I will soon start translating it to English. However, I originally wrote the code (comments and variable names) in Catalan, and that will probably still make it hard to read for most part of the people._
 
+_Also, a document (in Catalan) showing the necessary steps to follow in order to set up the project into your own web server, can be found at LLEGEIX-ME.txt_
+
 ###Screenshot of the source website from which I'm web scraping the content (http://agenda.cultura.gencat.cat/):
 
 ![List of events Gencat](https://github.com/afranques44/mercat-catala/raw/master/SCREENSHOTS/screenshot_gencat.png "List of events Gencat")
