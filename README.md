@@ -1,5 +1,5 @@
 # Mercat Catala
-Set of scripts for parsing, saving and uploading to a personally-owned database all the cultural events listed in the Catalan Government's website http://agenda.cultura.gencat.cat/ Also, once we have all that data, use it in a social network style website (intended to be named mercatcatala.cat) for editing, commenting, liking/disliking, etc. the events among the website users. The project was submitted as an ending to a set of technical courses that occur in Spain between High School and College.
+Set of scripts for parsing, saving (web scraping) and uploading to a personally-owned database all the cultural events listed in the Catalan Government's website http://agenda.cultura.gencat.cat/ Also, once we have all that data, use it in a social network style website (intended to be named mercatcatala.cat) for editing, commenting, liking/disliking, etc. the events among the website users. The project was submitted as an ending to a set of technical courses that occur in Spain between High School and College.
 
 - Languages and techniques used: PHP, Javascript, Ajax, SQL, HTML, CSS
 - Libraries used: script.aculo.us, Snoopy
