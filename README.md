@@ -10,7 +10,7 @@ _Also, a document (in Catalan) showing the necessary steps to follow in order to
 
 ###Screenshot of the source website from which I'm web scraping the content (http://agenda.cultura.gencat.cat/):
 
-![List of events Gencat](https://github.com/afranques44/mercat-catala/raw/master/SCREENSHOTS/screenshot_gencat.png "List of events Gencat")
+![List of events Gencat](/SCREENSHOTS/screenshot_gencat.png "List of events Gencat")
 
 ###Some screenshots of my website:
 
