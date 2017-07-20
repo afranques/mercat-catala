@@ -4,15 +4,15 @@ Set of scripts for parsing, saving (web scraping) and uploading to a personally-
 - Languages and techniques used: PHP, Javascript, Ajax, SQL, HTML, CSS
 - Libraries used: script.aculo.us, Snoopy
 
-_A fairly detailed description of the code structure can be found at Memòria_escrita.pdf, although it's in Catalan. I will soon start translating it to English. However, I originally wrote the code (comments and variable names) in Catalan, and that will probably still make it hard to read for most part of the people._
+_A fairly detailed description of the code structure can be found at Memòria_escrita.pdf, although it's in Catalan._
 
 _Also, a document (in Catalan) showing the necessary steps to follow in order to set up the project into your own web server, can be found at LLEGEIX-ME.txt_
 
-###Screenshot of the source website from which I'm web scraping the content (http://agenda.cultura.gencat.cat/):
+### Screenshot of the source website from which I'm web scraping the content (http://agenda.cultura.gencat.cat/):
 
 ![List of events Gencat](/SCREENSHOTS/screenshot_gencat.png "List of events Gencat")
 
-###Some screenshots of my website:
+### Some screenshots of my website:
 
 - **Home page**
 ![Home page](/SCREENSHOTS/home_page.png "Home page")
